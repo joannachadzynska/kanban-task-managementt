@@ -33,7 +33,7 @@ function App() {
         <p>count is {count}</p>
         <div>
           <Button onClick={() => setCount((count) => count + 1)}>
-            Click me
+            Click me now
           </Button>
         </div>
         <div>
